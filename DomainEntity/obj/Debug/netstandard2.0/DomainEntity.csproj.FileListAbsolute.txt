@@ -1,0 +1,16 @@
+C:\Users\Quang\source\repos\WebApp\DomainEntity\bin\Debug\netstandard2.0\DomainEntity.deps.json
+C:\Users\Quang\source\repos\WebApp\DomainEntity\bin\Debug\netstandard2.0\DomainEntity.dll
+C:\Users\Quang\source\repos\WebApp\DomainEntity\obj\Debug\netstandard2.0\DomainEntity.csprojAssemblyReference.cache
+C:\Users\Quang\source\repos\WebApp\DomainEntity\obj\Debug\netstandard2.0\DomainEntity.csproj.CoreCompileInputs.cache
+C:\Users\Quang\source\repos\WebApp\DomainEntity\obj\Debug\netstandard2.0\DomainEntity.AssemblyInfoInputs.cache
+C:\Users\Quang\source\repos\WebApp\DomainEntity\obj\Debug\netstandard2.0\DomainEntity.AssemblyInfo.cs
+C:\Users\Quang\source\repos\WebApp\DomainEntity\bin\Debug\netstandard2.0\DomainEntity.pdb
+C:\Users\Quang\source\repos\WebApp\DomainEntity\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\Quang\source\repos\WebApp\DomainEntity\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Quang\source\repos\WebApp\DomainEntity\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Quang\source\repos\WebApp\DomainEntity\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\Quang\source\repos\WebApp\DomainEntity\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\Quang\source\repos\WebApp\DomainEntity\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\Quang\source\repos\WebApp\DomainEntity\obj\Debug\netstandard2.0\DomainEntity.csproj.CopyComplete
+C:\Users\Quang\source\repos\WebApp\DomainEntity\obj\Debug\netstandard2.0\DomainEntity.dll
+C:\Users\Quang\source\repos\WebApp\DomainEntity\obj\Debug\netstandard2.0\DomainEntity.pdb
